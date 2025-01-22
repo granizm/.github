@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Report a bug in KubeVirt
+about: Report a bug
 title: ''
 labels: kind/bug
 assignees: ''
@@ -22,11 +22,8 @@ Steps to reproduce the behavior.
 Add any other context about the problem here.
 
 **Environment**:
-- KubeVirt version (use `virtctl version`): N/A
-- Kubernetes version (use `kubectl version`): N/A
-- VM or VMI specifications: N/A
-- Cloud provider or hardware configuration: N/A
-- OS (e.g. from /etc/os-release): N/A
-- Kernel (e.g. `uname -a`): N/A
-- Install tools: N/A
+- Usage OS(Windows,MacOS,Linux,Android,iOS): N/A
+- OS version: N/A
+- Kernel or Build version: N/A
+- Date: yyyy/mm/dd:hh
 - Others: N/A

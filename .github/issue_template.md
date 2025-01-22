@@ -4,8 +4,8 @@ about: Report a bug
 title: ''
 labels: kind/bug
 assignees: ''
-
 ---
+
 <!-- Make sure that you visit our User Guide at https://kubevirt.io/user-guide.
 -->
 

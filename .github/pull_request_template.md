@@ -1,15 +1,49 @@
 ## 関連リンク / Relation
 
-* github Issueやタスク管理用アプリのチケットへのリンクを貼る。
+github Issueやタスク管理用アプリのチケットへのリンクを貼る。
+
+<!--
+ex)
+- https://app.slack.com/client/xxx/xxx
+- https://jira.atalassian.com/xxx/xxx
+- etc...
+
+※ github-issueの場合は以下の形式で記載
+- closes: https://github.com/xxx/xxx/issues/1#issue-xxx
+-->
+
 
 ## 説明 / Explanation
 
-* PRの内容・経緯を記載する。
+PRの内容・経緯を記載する。
+
+<!--
+フリーフォーマット
+-->
 
 ## 設計に関して / About structure
 
-* クラス図、構成図などがあれば貼る
-* 参考にした資料、ブログ、実装などがあれば箇条書きで並べる
+クラス図、構成図などがあれば貼る
+
+<!--
+`クラス関係図`
+- https://draw.io/xxx
+`シーケンス図`
+- https://github.com/xxx/xxx.md (mermaid)
+`ディレクトリ構成`
+- https://github.com/xxx/xxx.md (markdownなど...)
+- etc...
+-->
+
+参考にした資料、ブログ、実装などがあれば箇条書きで並べる
+
+<!--
+ex)
+- https://speakerdeck/xxx
+- https://docswell/xxx
+- https://qiita.com/xxx
+- https://zenn.dev/xxx
+-->
 
 ## 確認項目 / Check lists
 
